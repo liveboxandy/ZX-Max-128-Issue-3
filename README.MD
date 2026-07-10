@@ -15,9 +15,9 @@ with regards to copper tracing and via positions.
 
 For the jumpers/connectors on the board,
 
-J1 8 Way Keyboard Connector
+J1/J1A1 8 Way Keyboard Connector
 
-J2 5 Way Keyboard Connector
+J2/J2A1 5 Way Keyboard Connector
 
 J3 Zx Expansion Connector
 
